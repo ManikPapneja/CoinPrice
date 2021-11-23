@@ -1,50 +1,59 @@
-
-
-*{
+@import url("https://fonts.googleapis.com/css2?family=Cabin&display=swap");
+* {
   box-sizing: border-box;
-  margin:0;
+  margin: 0;
   padding: 0;
-  font-family: 'Monsterrat', sans-serif;
+  font-family: "Cabin", sans-serif;
   background-color: #1a1a1c;
   coloe: #fff;
 }
 
-.coin-app{
+.coin-app {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: 64px;
   color: #ffff;
-  
 }
 
-.coin-search{
+.coin-search {
   margin-bottom: 64px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
 }
 
-.coin-text{
+.coin-text {
   margin-bottom: 32px;
   text-align: center;
-
+  color: #e576b5;
 }
 
-.coin-input{
+.coin-input {
   padding-left: 32px;
   width: 300px;
   height: 50px;
   border-radius: 4px;
   border: none;
   background-image: linear-gradient(
-    -225deg, #ac32e4 0%,  #7918f2 48%, #4801ff 100%
+    to right top,
+    #d16ba5,
+    #c777b9,
+    #ba83ca,
+    #aa8fd8,
+    #9a9ae1,
+    #8aa7ec,
+    #79b3f4,
+    #69bff8,
+    #52cffe,
+    #41dfff,
+    #46eefa,
+    #5ffbf1
   );
   color: #e2e2e2;
 }
 
-.coin-input::placeholder{
+.coin-input::placeholder {
   color: #e2e2e2;
 }
