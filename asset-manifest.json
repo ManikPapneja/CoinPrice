@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CoinPrice/static/css/main.43789461.chunk.css",
+    "main.js": "/CoinPrice/static/js/main.0ef28382.chunk.js",
+    "main.js.map": "/CoinPrice/static/js/main.0ef28382.chunk.js.map",
+    "runtime-main.js": "/CoinPrice/static/js/runtime-main.20151ea4.js",
+    "runtime-main.js.map": "/CoinPrice/static/js/runtime-main.20151ea4.js.map",
+    "static/js/2.41a52591.chunk.js": "/CoinPrice/static/js/2.41a52591.chunk.js",
+    "static/js/2.41a52591.chunk.js.map": "/CoinPrice/static/js/2.41a52591.chunk.js.map",
+    "index.html": "/CoinPrice/index.html",
+    "static/css/main.43789461.chunk.css.map": "/CoinPrice/static/css/main.43789461.chunk.css.map",
+    "static/js/2.41a52591.chunk.js.LICENSE.txt": "/CoinPrice/static/js/2.41a52591.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20151ea4.js",
+    "static/js/2.41a52591.chunk.js",
+    "static/css/main.43789461.chunk.css",
+    "static/js/main.0ef28382.chunk.js"
+  ]
+}
